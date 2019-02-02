@@ -30,6 +30,9 @@ https://mobisocial.stanford.edu/muse/
 OfflineIMAP: Read/sync your IMAP mailboxes
 https://github.com/OfflineIMAP/offlineimap
 
+TOMES: Transforming Online Mail with Embedded Semantics
+https://github.com/StateArchivesOfNorthCarolina?utf8=%E2%9C%93&q=tomes&type=public&language=
+
 ## Guides and Documentation
 
 Digital Preservation Coalition (Portal link for articles on email)

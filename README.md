@@ -6,6 +6,9 @@ Reference list of email processing resources; focus on preservation and PII hand
 ePADD: ePADD is a software package developed by Stanford University's Special Collections & University Archives that supports archival processes around the appraisal, ingest, processing, discovery, and delivery of email archives. \
 https://github.com/ePADD/epadd
 
+Email4n6: A simple cross-platform forensic application for processing email files \
+https://github.com/Marten4n6/Email4n6
+
 imapfw: imapfw is a simple and powerful framework to work with mails. \
 https://github.com/OfflineIMAP/imapfw
 

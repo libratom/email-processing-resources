@@ -3,19 +3,19 @@ Reference list of email processing resources; focus on preservation and PII hand
 
 ## Tools and Libraries
 
-ePADD: ePADD is a software package developed by Stanford University's Special Collections & University Archives that supports archival processes around the appraisal, ingest, processing, discovery, and delivery of email archives.
+ePADD: ePADD is a software package developed by Stanford University's Special Collections & University Archives that supports archival processes around the appraisal, ingest, processing, discovery, and delivery of email archives.\
 https://github.com/ePADD/epadd
 
-imapfw: imapfw is a simple and powerful framework to work with mails.
+imapfw: imapfw is a simple and powerful framework to work with mails.\
 https://github.com/OfflineIMAP/imapfw
 
-libpff: Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format
+libpff: Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format\
 https://github.com/libyal/libpff
 
-libpst: Library for reading Microsoft Outlook PST files
+libpst: Library for reading Microsoft Outlook PST files\
 http://hg.five-ten-sg.com/libpst/
 
-maildir2mbox.py: Convert maildirs (including subfolders) to mbox format
+maildir2mbox.py: Convert maildirs (including subfolders) to mbox format\
 https://gist.github.com/nyergler/1709069
 
 mbox: Package mbox parses the mbox file format into messages and formats messages into mbox files.

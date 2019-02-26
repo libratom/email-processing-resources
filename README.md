@@ -54,4 +54,10 @@ https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive
 Office 365: Overview of retention policies
 https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies
 
+DArcMail Users Guide
+https://siarchives.si.edu/sites/default/files/forum-pdfs/SIA_DArcMail_UsersGuide.pdf
 
+## Reading List
+
+A Forensic Email Analysis Tool Using Dynamic Visualization
+https://commons.erau.edu/jdfsl/vol12/iss1/6/

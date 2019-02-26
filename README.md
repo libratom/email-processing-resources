@@ -61,3 +61,9 @@ https://siarchives.si.edu/sites/default/files/forum-pdfs/SIA_DArcMail_UsersGuide
 
 A Forensic Email Analysis Tool Using Dynamic Visualization \
 https://commons.erau.edu/jdfsl/vol12/iss1/6/
+
+A Comprehensive Gold Standard for the Enron Organizational Hierarchy \
+http://www.aclweb.org/anthology/P12-2032
+
+Work Hard, Play Hard: Email Classification on the Avocado and Enron Corpora \
+https://pdfs.semanticscholar.org/d103/24c0a31845cb29e6d0157b60fb1130f89624.pdf

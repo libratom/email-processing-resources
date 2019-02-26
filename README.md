@@ -30,6 +30,10 @@ https://mobisocial.stanford.edu/muse/
 OfflineIMAP: Read/sync your IMAP mailboxes\
 https://github.com/OfflineIMAP/offlineimap
 
+DArcMail: Digital Archiving of eMail \
+CERP decriptive link: https://siarchives.si.edu/what-we-do/digital-curation/email-preservation-cerp \
+Direct download link: https://siarchives.si.edu/sites/default/files/DArcMail/DArcMail-v1.2-2018-03-07.zip
+
 TOMES: Transforming Online Mail with Embedded Semantics\
 https://github.com/StateArchivesOfNorthCarolina?utf8=%E2%9C%93&q=tomes&type=public&language=
 

@@ -47,6 +47,9 @@ https://github.com/ic4f/pluto
 PST Indexer using libpff (Simple example from LPFF) \
 https://github.com/PacktPublishing/Learning-Python-for-Forensics/blob/master/Chapter%2010/pst_indexer.py
 
+Forensic Email Visualization
+https://www.cs1.tf.fau.de/research/archive/forensic-email-visualization/
+
 ## Guides and Documentation
 
 Digital Preservation Coalition (Portal link for articles on email) \

@@ -50,6 +50,9 @@ https://github.com/PacktPublishing/Learning-Python-for-Forensics/blob/master/Cha
 Forensic Email Visualization
 https://www.cs1.tf.fau.de/research/archive/forensic-email-visualization/
 
+Sotera Newman: Email analysis and visualization
+https://github.com/Sotera/newman
+
 ## Guides and Documentation
 
 Digital Preservation Coalition (Portal link for articles on email) \

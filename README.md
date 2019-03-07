@@ -53,10 +53,13 @@ https://www.cs1.tf.fau.de/research/archive/forensic-email-visualization/
 Sotera Newman: Email analysis and visualization
 https://github.com/Sotera/newman
 
-[MS-PST]: Outlook Personal Folders (.pst) File Format \
-https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst
+Node.js PST tool \
+https://github.com/epfromer/pst-extractor
 
 ## Guides and Documentation
+
+[MS-PST]: Outlook Personal Folders (.pst) File Format \
+https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst
 
 Digital Preservation Coalition (Portal link for articles on email) \
 https://www.dpconline.org/knowledge-base/preservation-lifecycle/email

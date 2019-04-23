@@ -87,8 +87,11 @@ https://commons.erau.edu/jdfsl/vol12/iss1/6/
 A Comprehensive Gold Standard for the Enron Organizational Hierarchy \
 http://www.aclweb.org/anthology/P12-2032
 
-Work Hard, Play Hard: Email Classification on the Avocado and Enron Corpora \
-https://pdfs.semanticscholar.org/d103/24c0a31845cb29e6d0157b60fb1130f89624.pdf
+Machine Learning for email insight
+https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-efed37c1e66
 
 Network Analysis with the Enron Email Corpus \
 https://arxiv.org/pdf/1410.2759.pdf
+
+Work Hard, Play Hard: Email Classification on the Avocado and Enron Corpora \
+https://pdfs.semanticscholar.org/d103/24c0a31845cb29e6d0157b60fb1130f89624.pdf

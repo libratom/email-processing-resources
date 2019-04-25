@@ -67,6 +67,9 @@ https://sites.google.com/site/emailresearchorg/datasets
 Enron / CALO project \
 https://www.cs.cmu.edu/~./enron/
 
+Enron / Nuix set v1.3 \
+http://info.nuix.com/EnronDownload2013.html
+
 Jeb Bush's Gubernatorial Email Archive \
 https://ab21www.s3.amazonaws.com/JebBushEmails-Text.7z
 

@@ -58,8 +58,17 @@ https://github.com/epfromer/pst-extractor
 
 ## Datasets and Dataset Annotations
 
+Apache Software Foundation Public Mail Archives
+https://aws.amazon.com/datasets/apache-software-foundation-public-mail-archives/
+
+Email Research Data Sets \
+https://sites.google.com/site/emailresearchorg/datasets
+
 Enron / CALO project \
 https://www.cs.cmu.edu/~./enron/
+
+Jeb Bush's Gubernatorial Email Archive
+https://ab21www.s3.amazonaws.com/JebBushEmails-Text.7z
 
 Labeled training and test data for email intent machine learning (for sentence-level speech acts) \
 https://github.com/ParakweetLabs/EmailIntentDataSet

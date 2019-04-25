@@ -67,7 +67,7 @@ https://sites.google.com/site/emailresearchorg/datasets
 Enron / CALO project \
 https://www.cs.cmu.edu/~./enron/
 
-Jeb Bush's Gubernatorial Email Archive
+Jeb Bush's Gubernatorial Email Archive \
 https://ab21www.s3.amazonaws.com/JebBushEmails-Text.7z
 
 Labeled training and test data for email intent machine learning (for sentence-level speech acts) \

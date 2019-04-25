@@ -3,6 +3,9 @@ Reference list of email processing resources; focus on analysis, PII handling, p
 
 ## Tools and Libraries
 
+Apache Pony Mail: Apache Pony Mail is a web-based mail archive browser built to scale to millions of archived messages with hundreds of requests per second. It allows you to browse, search, and interact with mailing lists including creating replies to mailing list threads. \
+https://ponymail.incubator.apache.org/
+
 ePADD: ePADD is a software package developed by Stanford University's Special Collections & University Archives that supports archival processes around the appraisal, ingest, processing, discovery, and delivery of email archives. \
 https://github.com/ePADD/epadd
 

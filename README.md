@@ -58,10 +58,10 @@ https://github.com/epfromer/pst-extractor
 
 ## Datasets and Dataset Annotations
 
-Enron / CALO project
+Enron / CALO project \
 https://www.cs.cmu.edu/~./enron/
 
-Labeled training and test data for email intent machine learning (for sentence-level speech acts).
+Labeled training and test data for email intent machine learning (for sentence-level speech acts) \
 https://github.com/ParakweetLabs/EmailIntentDataSet
 
 ## Guides and Documentation

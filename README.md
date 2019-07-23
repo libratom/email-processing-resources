@@ -84,6 +84,12 @@ https://github.com/ParakweetLabs/EmailIntentDataSet
 [MS-PST]: Outlook Personal Folders (.pst) File Format \
 https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst
 
+[pstviewtool]: Microsoft's open source tool for viewing PST structure
+https://archive.codeplex.com/?p=pstviewtool
+
+[pstsdk]: Microsoft's cross platform header only C++ library for reading PST files
+https://archive.codeplex.com/?p=pstsdk
+
 Digital Preservation Coalition (Portal link for articles on email) \
 https://www.dpconline.org/knowledge-base/preservation-lifecycle/email
 

@@ -90,6 +90,9 @@ https://archive.codeplex.com/?p=pstviewtool
 [pstsdk]: Microsoft's cross platform header only C++ library for reading PST files
 https://archive.codeplex.com/?p=pstsdk
 
+How MAPI tables work
+http://www.dimastr.com/redemption/mapitable.htm
+
 Digital Preservation Coalition (Portal link for articles on email) \
 https://www.dpconline.org/knowledge-base/preservation-lifecycle/email
 

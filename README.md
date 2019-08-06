@@ -50,10 +50,10 @@ https://github.com/ic4f/pluto
 PST Indexer using libpff (Simple example from LPFF) \
 https://github.com/PacktPublishing/Learning-Python-for-Forensics/blob/master/Chapter%2010/pst_indexer.py
 
-Forensic Email Visualization
+Forensic Email Visualization \
 https://www.cs1.tf.fau.de/research/archive/forensic-email-visualization/
 
-Sotera Newman: Email analysis and visualization
+Sotera Newman: Email analysis and visualization \
 https://github.com/Sotera/newman
 
 Node.js PST tool \
@@ -61,7 +61,7 @@ https://github.com/epfromer/pst-extractor
 
 ## Datasets and Dataset Annotations
 
-Apache Software Foundation Public Mail Archives
+Apache Software Foundation Public Mail Archives \
 https://aws.amazon.com/datasets/apache-software-foundation-public-mail-archives/
 
 Email Research Data Sets \
@@ -84,13 +84,13 @@ https://github.com/ParakweetLabs/EmailIntentDataSet
 [MS-PST]: Outlook Personal Folders (.pst) File Format \
 https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst
 
-[pstviewtool]: Microsoft's open source tool for viewing PST structure
+[pstviewtool]: Microsoft's open source tool for viewing PST structure \
 https://archive.codeplex.com/?p=pstviewtool
 
-[pstsdk]: Microsoft's cross platform header only C++ library for reading PST files
+[pstsdk]: Microsoft's cross platform header only C++ library for reading PST files \
 https://archive.codeplex.com/?p=pstsdk
 
-How MAPI tables work
+How MAPI tables work \
 http://www.dimastr.com/redemption/mapitable.htm
 
 Digital Preservation Coalition (Portal link for articles on email) \
@@ -127,3 +127,6 @@ https://arxiv.org/pdf/1410.2759.pdf
 
 Work Hard, Play Hard: Email Classification on the Avocado and Enron Corpora \
 https://pdfs.semanticscholar.org/d103/24c0a31845cb29e6d0157b60fb1130f89624.pdf
+
+A Content-Based Approach to Email Triage Action Prediction: Exploration and Evaluation \
+https://www.groundai.com/project/a-content-based-approach-to-email-triage-action-prediction-exploration-and-evaluation/
